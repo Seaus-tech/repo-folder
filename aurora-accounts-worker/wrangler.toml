@@ -1,0 +1,7 @@
+name = "aurora-accounts"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+kv_namespaces = [
+  { binding = "ACCOUNTS", id = "59bd4962bff64c1797fad93fab10c7b4" }
+]
