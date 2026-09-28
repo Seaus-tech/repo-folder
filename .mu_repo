@@ -1,20 +1,3 @@
-repo=.github
-repo=Aurora-Shell
-repo=Calculator-app
-repo=FreeUp
-repo=GeminiXcodeProxy
-repo=MacOS-exe-runner
-repo=Microsoft-Chat
-repo=PACMAN-256
-repo=PACMAN-C
-repo=PACMAN-ZIG
-repo=PACMAN256-C
-repo=SeatX
-repo=Seaus
-repo=Seaus-Assigned
-repo=TicTacToe
-repo=Windows-11-26H2
-repo=demo-repository
-repo=gpg-ssh-test
-repo=yashb-byte
-serial=False
+version https://git-lfs.github.com/spec/v1
+oid sha256:228b467b99da0d0698c1a8a38b5e8f5e39062e29faef6c11e93191b453ae31b8
+size 335
