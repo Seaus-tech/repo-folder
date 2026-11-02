@@ -1,0 +1,195 @@
+{
+  "originHash" : "bd2b1543e70366f6eadb1912075a4bb59c780690979692ee5900578066d5932a",
+  "pins" : [
+    {
+      "identity" : "clispinner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kiliankoe/CLISpinner",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0572232b92ddfd80cbab4ced6973d1c210022968"
+      }
+    },
+    {
+      "identity" : "dollup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ordo-one/dollup",
+      "state" : {
+        "branch" : "master",
+        "revision" : "349c8a4e292d7ff4239c1a71e624b21dcf91876c"
+      }
+    },
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "bd7031ec9b9638ac5aeb3b3569d7cdc52526d10b"
+      }
+    },
+    {
+      "identity" : "h",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rarestype/h",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9a419b0c699581b9007c63ecd8b87418759ed50a"
+      }
+    },
+    {
+      "identity" : "llama.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mattt/llama.swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "018619bf56f92cc85286150611609f456813826f"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0aff16288f8dc1e3dab35cbf5cf45979673fd3df"
+      }
+    },
+    {
+      "identity" : "networkimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gonzalezreal/NetworkImage",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2849f5323265386e200484b0d0f896e73c3411b9"
+      }
+    },
+    {
+      "identity" : "progress.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jkandzi/Progress.swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "fed6598735d7982058690acf8f52a0a5fdaeb3e0"
+      }
+    },
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Rainbow",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b6d790f5487f4673fae2222d04d57ff6d6c621ea"
+      }
+    },
+    {
+      "identity" : "socket.io-client-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/socketio/socket.io-client-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "42da871d9369f290d6ec4930636c40672143905b"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a"
+      }
+    },
+    {
+      "identity" : "swift-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-algorithms",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5b7143f8e291dee0e14c118fd0212487f0b37af5"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "branch" : "main",
+        "revision" : "38ca4eceb349155836701b88da3e0986eb9d1e1c"
+      }
+    },
+    {
+      "identity" : "swift-docc-plugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-docc-plugin",
+      "state" : {
+        "branch" : "main",
+        "revision" : "647c708be89f834fa6a6d4945442793a77ddf5b6"
+      }
+    },
+    {
+      "identity" : "swift-docc-symbolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-docc-symbolkit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e9a4c0f2ddad22ec3e7d1dc8d49061b5bd8a42ea"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "669f6185187f8e1b5857a25c4bbe6c34a3a02b96"
+      }
+    },
+    {
+      "identity" : "swift-png",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tayloraswift/swift-png",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6193b0a4510f3105cf07cc26745243823997b276"
+      }
+    },
+    {
+      "identity" : "swift-subprocess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-subprocess",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dbe21bd7dfd4ffef8c32588918542a8abfa1b54c"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a3e9687c917fb3536b8d475514ed564195a56451"
+      }
+    },
+    {
+      "identity" : "swifterswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwifterSwift/SwifterSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "548d06a78281c8f3f65bd1c2b10d583fb8c34e4b"
+      }
+    },
+    {
+      "identity" : "yams",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jpsim/Yams",
+      "state" : {
+        "branch" : "main",
+        "revision" : "df801bc4f158f107035d2e14f6d0d8d31eb31ddb"
+      }
+    }
+  ],
+  "version" : 3
+}

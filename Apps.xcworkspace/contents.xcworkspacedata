@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TicTacToe/TicTacToe/TicTacToe.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SeausAI/SeausAI/SeausAI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Seaus-Assigned/Seaus Assigned/Seaus Assigned.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Seaus/Seaus/Seaus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SeatX/SeatX/SeatX.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PACMAN-256/PAC/PacMan256.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MacOS-exe-runner/MACEXE/MACEXE.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Kiro-AI-for-Xcode/KiroAIForXcode/KiroAIForXcode.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FreeUp/FreeUp/FreeUp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Aurora-Shell/Horizon/Horizon.xcodeproj">
+   </FileRef>
+</Workspace>
