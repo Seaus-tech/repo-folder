@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3980594166affd88ff5bcbaa04fd42ca4b591b5b719840a0d5d466bd41407925
-size 266
+{
+  "name": "seaus-app",
+  "version": "1.0.0",
+  "description": "Seaus Web Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.76",
+    "ai": "^7.0.108",
+    "express": "^4.19.2"
+  }
+}

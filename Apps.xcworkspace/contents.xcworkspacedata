@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:GeoDashCore/GeoDashMods/GeoDashMods.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:TicTacToe/TicTacToe/TicTacToe.xcodeproj">
    </FileRef>
    <FileRef

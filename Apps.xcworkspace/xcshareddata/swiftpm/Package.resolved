@@ -25,7 +25,7 @@
       "location" : "https://github.com/groue/GRDB.swift",
       "state" : {
         "branch" : "master",
-        "revision" : "bd7031ec9b9638ac5aeb3b3569d7cdc52526d10b"
+        "revision" : "98c58f4eef16b30e2ac695076938300cda49fa79"
       }
     },
     {
@@ -34,7 +34,7 @@
       "location" : "https://github.com/rarestype/h",
       "state" : {
         "branch" : "master",
-        "revision" : "9a419b0c699581b9007c63ecd8b87418759ed50a"
+        "revision" : "4a89f6a8174e618a96ee7314cb526c9e2496bc56"
       }
     },
     {
@@ -133,7 +133,7 @@
       "location" : "https://github.com/apple/swift-docc-symbolkit",
       "state" : {
         "branch" : "main",
-        "revision" : "e9a4c0f2ddad22ec3e7d1dc8d49061b5bd8a42ea"
+        "revision" : "a3f3648bef3dd289e1f8756e77cf5610d2352f31"
       }
     },
     {
@@ -151,7 +151,7 @@
       "location" : "https://github.com/tayloraswift/swift-png",
       "state" : {
         "branch" : "master",
-        "revision" : "6193b0a4510f3105cf07cc26745243823997b276"
+        "revision" : "2ba72ab598fe64735866d63d67180c1dc97f27bc"
       }
     },
     {
@@ -169,7 +169,7 @@
       "location" : "https://github.com/apple/swift-system",
       "state" : {
         "branch" : "main",
-        "revision" : "a3e9687c917fb3536b8d475514ed564195a56451"
+        "revision" : "d1b4ed40f20f8e3b4778f0b4b3d57c1f35e14877"
       }
     },
     {
@@ -178,7 +178,7 @@
       "location" : "https://github.com/SwifterSwift/SwifterSwift",
       "state" : {
         "branch" : "main",
-        "revision" : "548d06a78281c8f3f65bd1c2b10d583fb8c34e4b"
+        "revision" : "f89d2f7f377f951d5ce746bbe99b642b1b86d38e"
       }
     },
     {

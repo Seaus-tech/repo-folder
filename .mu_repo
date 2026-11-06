@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:228b467b99da0d0698c1a8a38b5e8f5e39062e29faef6c11e93191b453ae31b8
-size 335
+repo=.
+repo=Aurora-Shell
+repo=Calculator-app
+repo=FreeUp
+repo=GeoDashCore
+repo=Kiro-AI-for-Xcode
+repo=MacOS-exe-runner
+repo=Microsoft-Chat
+repo=PACMAN-256
+repo=PACMAN-C
+repo=PACMAN-ZIG
+repo=PACMAN256-C
+repo=SeatX
+repo=Seaus
+repo=Seaus-Assigned
+repo=SeausAI
+repo=TicTacToe
+repo=Windows-11-26H2
+repo=demo-repository
+repo=gpg-ssh-test
+repo=homebrew-aurora-shell
+repo=yashb-byte
+serial=True
